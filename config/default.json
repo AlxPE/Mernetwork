@@ -1,3 +1,4 @@
 {
-    "mogoURI": "mongodb+srv://alex77:vfhnsirf@dev1-s9zbi.mongodb.net/test?retryWrites=true&w=majority"
+    "mogoURI": "mongodb+srv://alex77:vfhnsirf@dev1-s9zbi.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "sgnfdango"
 }
