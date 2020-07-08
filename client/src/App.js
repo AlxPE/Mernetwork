@@ -40,7 +40,7 @@ const App = () => {
             <Fragment>
                 <Navbar />
                 <Route exact path="/" component={ Landing } />
-                <section className="container">
+                <section className="container"> // Move this section inside components to remove white space on the landing page
                     <Alert />
                     <Switch>
                         <Route exact path="/register" component={ Register } />
