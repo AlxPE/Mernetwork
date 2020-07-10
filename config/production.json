@@ -1,5 +1,0 @@
-{
-    "mogoURI": "mongodb+srv://alex77:vfhnsirf@dev1-s9zbi.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "sgnfdango",
-    "githubAccessToken": "2ba3bf42f28baa1a975a56a58bd7dff98bacebe2"
-}
